@@ -7,11 +7,13 @@ It is pathFinding visualizer that were developed using SDL Graphics Library in C
 * Color Animation : Provides an elegant display of color over each grid block like gradient.
 * Algorithm : Currently algorithms supported are DFS, BFS and Dijsktra.
 
-# Improvement and Bugs
+# Improvements and Bugs
 * New algorithms like Bi-directional search, A* algorithm, Swarm-intelligence algorithm and greedy best-first algorithm can be implemented.
 * Block collision detection 
 * Path reconstruction ( Bug )
 * Graphic user interface to enhance user experience
+
+Note : This project is underdevelopment
 
 # KeyBindings
 * Left Mouse Click : Place blocks
@@ -25,4 +27,4 @@ It is pathFinding visualizer that were developed using SDL Graphics Library in C
 * 4 : To enable 4 connections
 * 8 : To enable 8 connections
 
-For installation and deployment, refer to this [Installation Guide]( https://www.matsson.com/prog/sdl2-mingw-w64-tutorial.php ).
+For installation and deployment, refer to this [Guide]( https://www.matsson.com/prog/sdl2-mingw-w64-tutorial.php ).
