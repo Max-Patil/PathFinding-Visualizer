@@ -2,14 +2,9 @@
 It is pathFinding visualizer that were developed using SDL Graphics Library in C++. Graph data structure is used as backend and visualized graph algorithm on grid like terrain.
 
 # Demonstration
+https://github.com/Max-Patil/PathFinding-Visualizer/assets/151635173/477f6fac-0578-4712-9f71-d3367a45ee78
+https://github.com/Max-Patil/PathFinding-Visualizer/assets/151635173/b168c37c-0222-407e-a257-0977fbc0c72d
 
-
-
-https://github.com/Max-Patil/PathFinding-Visualizer/assets/151635173/9b881369-b7c5-4559-bd7b-359728801bea
-
-
-
-https://github.com/Max-Patil/PathFinding-Visualizer/assets/151635173/dfa773e2-caee-43d9-b506-4666ee7d430f
 
 
 # Features
