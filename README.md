@@ -3,6 +3,9 @@ It is pathFinding visualizer that were developed using SDL Graphics Library in C
 
 # Demonstration
 https://github.com/Max-Patil/PathFinding-Visualizer/assets/151635173/477f6fac-0578-4712-9f71-d3367a45ee78
+
+
+
 https://github.com/Max-Patil/PathFinding-Visualizer/assets/151635173/b168c37c-0222-407e-a257-0977fbc0c72d
 
 
